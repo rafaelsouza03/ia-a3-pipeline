@@ -51,6 +51,52 @@ O notebook aborda os seguintes tópicos:
 - Dados utilizados: [Especificar fonte dos dados, se aplicável]
 - Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
 
+## Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/102538111?v=4" width="100px;" alt="Adriel Torres Profile Picture"/><br>
+        <sub>
+          <b>Adriel Torres</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/145390400?v=4" width="100px;" alt="Antony Fonseca Profile Picture"/><br>
+        <sub>
+          <b>Antony Fonseca</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/178051914?v=4" width="100px;" alt="Rafael Souza Profile Picture"/><br>
+        <sub>
+          <b>Eric Rafael</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/103539537?v=4" width="100px;" alt="Pedro Henrique Profile Picture"/><br>
+        <sub>
+          <b>Pedro Henrique</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/128873783?v=4" width="100px;" alt="Vitorio Profile Picture"/><br>
+        <sub>
+          <b>Vitorio Honorato</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
